@@ -1,0 +1,21 @@
+# Local configuration files
+code/r/config.R
+code/stata/config.do
+
+# Data files
+*.dta
+*.csv
+*.xlsx
+*.xls
+
+# Data folders
+data/
+
+# Other files
+*.tmp
+*.log
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
